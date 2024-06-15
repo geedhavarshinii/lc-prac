@@ -7,6 +7,7 @@
 | [0075-sort-colors](https://github.com/geedhavarshinii/lc-prac/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/geedhavarshinii/lc-prac/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/geedhavarshinii/lc-prac/tree/master/0792-binary-search) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/geedhavarshinii/lc-prac/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Two Pointers
 |  |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/geedhavarshinii/lc-prac/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/geedhavarshinii/lc-prac/tree/master/0792-binary-search) |
 # Divide and Conquer
 |  |
 | ------- |
