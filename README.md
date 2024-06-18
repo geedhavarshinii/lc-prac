@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/geedhavarshinii/lc-prac/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/geedhavarshinii/lc-prac/tree/master/0493-reverse-pairs) |
@@ -55,3 +56,11 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/geedhavarshinii/lc-prac/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
