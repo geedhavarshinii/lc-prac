@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/geedhavarshinii/lc-prac/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/geedhavarshinii/lc-prac/tree/master/0118-pascals-triangle) |
@@ -28,6 +29,7 @@
 # Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/geedhavarshinii/lc-prac/tree/master/0493-reverse-pairs) |
 # Binary Indexed Tree
 |  |
@@ -48,6 +50,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/geedhavarshinii/lc-prac/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 # Greedy
