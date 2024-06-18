@@ -4,18 +4,18 @@ class Solution {
         int one = 0;
         int two = nums.length - 1;
         while (one <= two){
-            if (nums[one]==0){
-                int temp = nums[zero];
-                nums[zero] = nums[one];
-                nums[one] = temp;
-                zero++;
+            if (nums[one] == 0){
+                int temp = nums[one];
+                nums[one] = nums[zero];
+                nums[zero] = temp;
                 one++;
-            } else if (nums[one]==1){
+                zero++;
+            } else if (nums[one] == 1){
                 one++;
             } else {
-                int temp = nums[one];
-                nums[one] = nums[two];
-                nums[two] = temp;
+                int temp = nums[two];
+                nums[two] = nums[one];
+                nums[one] = temp;
                 two--;
             }
         }
