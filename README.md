@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/geedhavarshinii/lc-prac/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geedhavarshinii/lc-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
+| [0287-find-the-duplicate-number](https://github.com/geedhavarshinii/lc-prac/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/geedhavarshinii/lc-prac/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/geedhavarshinii/lc-prac/tree/master/0792-binary-search) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/geedhavarshinii/lc-prac/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -23,6 +24,7 @@
 | [0031-next-permutation](https://github.com/geedhavarshinii/lc-prac/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/geedhavarshinii/lc-prac/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/geedhavarshinii/lc-prac/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/geedhavarshinii/lc-prac/tree/master/0287-find-the-duplicate-number) |
 # Sorting
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/geedhavarshinii/lc-prac/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/geedhavarshinii/lc-prac/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/geedhavarshinii/lc-prac/tree/master/0792-binary-search) |
 # Divide and Conquer
@@ -84,3 +87,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/geedhavarshinii/lc-prac/tree/master/0048-rotate-image) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/geedhavarshinii/lc-prac/tree/master/0287-find-the-duplicate-number) |
