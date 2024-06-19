@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/geedhavarshinii/lc-prac/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/geedhavarshinii/lc-prac/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/geedhavarshinii/lc-prac/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/geedhavarshinii/lc-prac/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geedhavarshinii/lc-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
@@ -21,11 +22,13 @@
 | ------- |
 | [0031-next-permutation](https://github.com/geedhavarshinii/lc-prac/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/geedhavarshinii/lc-prac/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/geedhavarshinii/lc-prac/tree/master/0088-merge-sorted-array) |
 # Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/geedhavarshinii/lc-prac/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/geedhavarshinii/lc-prac/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/geedhavarshinii/lc-prac/tree/master/0088-merge-sorted-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/geedhavarshinii/lc-prac/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Binary Search
 |  |
