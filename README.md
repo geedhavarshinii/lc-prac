@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/geedhavarshinii/lc-prac/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/geedhavarshinii/lc-prac/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geedhavarshinii/lc-prac/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/geedhavarshinii/lc-prac/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/geedhavarshinii/lc-prac/tree/master/0493-reverse-pairs) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 # Matrix
 |  |
 | ------- |
@@ -100,3 +102,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/geedhavarshinii/lc-prac/tree/master/0062-unique-paths) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
