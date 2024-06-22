@@ -14,11 +14,12 @@ class Solution {
         ListNode temp = dummy;
         ListNode l1 = list1;
         ListNode l2 = list2;
-        while(l1!=null || l2!=null){
+
+        while (l1!=null || l2!=null){
             if (l1==null){
                 temp.next = l2;
                 break;
-            } 
+            }
             if (l2==null){
                 temp.next = l1;
                 break;
@@ -33,5 +34,6 @@ class Solution {
             temp = temp.next;
         }
         return dummy.next;
+        
     }
 }
