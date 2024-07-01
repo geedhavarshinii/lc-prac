@@ -128,3 +128,10 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/geedhavarshinii/lc-prac/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/geedhavarshinii/lc-prac/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/geedhavarshinii/lc-prac/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
