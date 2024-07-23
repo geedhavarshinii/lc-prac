@@ -169,5 +169,10 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0151-reverse-words-in-a-string) |
 | [2502-sort-the-people](https://github.com/geedhavarshinii/lc-prac/tree/master/2502-sort-the-people) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
