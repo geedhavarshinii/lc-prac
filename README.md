@@ -169,10 +169,16 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/geedhavarshinii/lc-prac/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0151-reverse-words-in-a-string) |
 | [2502-sort-the-people](https://github.com/geedhavarshinii/lc-prac/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/geedhavarshinii/lc-prac/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0151-reverse-words-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/geedhavarshinii/lc-prac/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
