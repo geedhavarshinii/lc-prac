@@ -159,17 +159,20 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/geedhavarshinii/lc-prac/tree/master/0013-roman-to-integer) |
 | [2645-pass-the-pillow](https://github.com/geedhavarshinii/lc-prac/tree/master/2645-pass-the-pillow) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/geedhavarshinii/lc-prac/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/geedhavarshinii/lc-prac/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/geedhavarshinii/lc-prac/tree/master/0138-copy-list-with-random-pointer) |
 | [2502-sort-the-people](https://github.com/geedhavarshinii/lc-prac/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/geedhavarshinii/lc-prac/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/geedhavarshinii/lc-prac/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0151-reverse-words-in-a-string) |
 | [2502-sort-the-people](https://github.com/geedhavarshinii/lc-prac/tree/master/2502-sort-the-people) |
 ## Two Pointers
