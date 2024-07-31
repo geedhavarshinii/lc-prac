@@ -6,8 +6,7 @@ class Solution {
             int count = 1;
             StringBuilder sb = new StringBuilder();
             for (int j = 1; j < out.length(); j++){
-                if (prevChar == out.charAt(j))
-                count++;
+                if (out.charAt(j)==prevChar) count++;
                 else {
                     sb.append(Integer.toString(count)).append(prevChar);
                     prevChar = out.charAt(j);
