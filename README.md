@@ -133,6 +133,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/geedhavarshinii/lc-prac/tree/master/0217-contains-duplicate) |
 | [1293-three-consecutive-odds](https://github.com/geedhavarshinii/lc-prac/tree/master/1293-three-consecutive-odds) |
@@ -170,6 +171,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/geedhavarshinii/lc-prac/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/geedhavarshinii/lc-prac/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/geedhavarshinii/lc-prac/tree/master/0217-contains-duplicate) |
