@@ -135,6 +135,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/geedhavarshinii/lc-prac/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/geedhavarshinii/lc-prac/tree/master/0238-product-of-array-except-self) |
@@ -179,6 +180,7 @@
 | [0001-two-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/geedhavarshinii/lc-prac/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/geedhavarshinii/lc-prac/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/geedhavarshinii/lc-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geedhavarshinii/lc-prac/tree/master/0242-valid-anagram) |
@@ -241,4 +243,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/geedhavarshinii/lc-prac/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
