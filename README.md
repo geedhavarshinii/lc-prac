@@ -134,6 +134,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/geedhavarshinii/lc-prac/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/geedhavarshinii/lc-prac/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/geedhavarshinii/lc-prac/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/geedhavarshinii/lc-prac/tree/master/0138-copy-list-with-random-pointer) |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/geedhavarshinii/lc-prac/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
