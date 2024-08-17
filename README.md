@@ -137,6 +137,7 @@
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/geedhavarshinii/lc-prac/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/geedhavarshinii/lc-prac/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/geedhavarshinii/lc-prac/tree/master/0347-top-k-frequent-elements) |
 | [1293-three-consecutive-odds](https://github.com/geedhavarshinii/lc-prac/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/geedhavarshinii/lc-prac/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -236,4 +237,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/geedhavarshinii/lc-prac/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/geedhavarshinii/lc-prac/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
