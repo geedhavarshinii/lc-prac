@@ -261,4 +261,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geedhavarshinii/lc-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/geedhavarshinii/lc-prac/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
