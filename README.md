@@ -162,6 +162,7 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/geedhavarshinii/lc-prac/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/geedhavarshinii/lc-prac/tree/master/0141-linked-list-cycle) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/geedhavarshinii/lc-prac/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -185,6 +186,7 @@
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/geedhavarshinii/lc-prac/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/geedhavarshinii/lc-prac/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/geedhavarshinii/lc-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geedhavarshinii/lc-prac/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/geedhavarshinii/lc-prac/tree/master/0347-top-k-frequent-elements) |
@@ -209,6 +211,7 @@
 | [0005-longest-palindromic-substring](https://github.com/geedhavarshinii/lc-prac/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/geedhavarshinii/lc-prac/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/geedhavarshinii/lc-prac/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/geedhavarshinii/lc-prac/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geedhavarshinii/lc-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
