@@ -142,6 +142,7 @@
 | [0217-contains-duplicate](https://github.com/geedhavarshinii/lc-prac/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/geedhavarshinii/lc-prac/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/geedhavarshinii/lc-prac/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/geedhavarshinii/lc-prac/tree/master/0739-daily-temperatures) |
 | [1293-three-consecutive-odds](https://github.com/geedhavarshinii/lc-prac/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/geedhavarshinii/lc-prac/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2502-sort-the-people](https://github.com/geedhavarshinii/lc-prac/tree/master/2502-sort-the-people) |
@@ -283,4 +284,12 @@
 | [1827-invalid-tweets](https://github.com/geedhavarshinii/lc-prac/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/geedhavarshinii/lc-prac/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/geedhavarshinii/lc-prac/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/geedhavarshinii/lc-prac/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/geedhavarshinii/lc-prac/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
