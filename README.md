@@ -136,6 +136,7 @@
 | [0001-two-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/geedhavarshinii/lc-prac/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geedhavarshinii/lc-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/geedhavarshinii/lc-prac/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 ## String Matching
 |  |
@@ -232,6 +234,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/geedhavarshinii/lc-prac/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
