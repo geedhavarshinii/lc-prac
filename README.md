@@ -137,6 +137,7 @@
 | [0036-valid-sudoku](https://github.com/geedhavarshinii/lc-prac/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geedhavarshinii/lc-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -186,6 +187,7 @@
 | [0013-roman-to-integer](https://github.com/geedhavarshinii/lc-prac/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/geedhavarshinii/lc-prac/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/geedhavarshinii/lc-prac/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/geedhavarshinii/lc-prac/tree/master/0141-linked-list-cycle) |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/geedhavarshinii/lc-prac/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
