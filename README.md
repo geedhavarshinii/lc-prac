@@ -166,6 +166,7 @@
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/geedhavarshinii/lc-prac/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/geedhavarshinii/lc-prac/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/geedhavarshinii/lc-prac/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/geedhavarshinii/lc-prac/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -232,6 +233,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/geedhavarshinii/lc-prac/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/geedhavarshinii/lc-prac/tree/master/0273-integer-to-english-words) |
 ## Divide and Conquer
 |  |
