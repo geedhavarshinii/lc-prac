@@ -136,6 +136,7 @@
 | [0001-two-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/geedhavarshinii/lc-prac/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/geedhavarshinii/lc-prac/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
@@ -226,6 +227,7 @@
 | [0015-3sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/geedhavarshinii/lc-prac/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/geedhavarshinii/lc-prac/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/geedhavarshinii/lc-prac/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0151-reverse-words-in-a-string) |
