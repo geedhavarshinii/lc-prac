@@ -147,11 +147,13 @@
 | [0739-daily-temperatures](https://github.com/geedhavarshinii/lc-prac/tree/master/0739-daily-temperatures) |
 | [1293-three-consecutive-odds](https://github.com/geedhavarshinii/lc-prac/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/geedhavarshinii/lc-prac/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/geedhavarshinii/lc-prac/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2502-sort-the-people](https://github.com/geedhavarshinii/lc-prac/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/geedhavarshinii/lc-prac/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/geedhavarshinii/lc-prac/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0242-valid-anagram](https://github.com/geedhavarshinii/lc-prac/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/geedhavarshinii/lc-prac/tree/master/0347-top-k-frequent-elements) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/geedhavarshinii/lc-prac/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/geedhavarshinii/lc-prac/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2502-sort-the-people](https://github.com/geedhavarshinii/lc-prac/tree/master/2502-sort-the-people) |
 ## Linked List
 |  |
@@ -220,6 +223,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/geedhavarshinii/lc-prac/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geedhavarshinii/lc-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/geedhavarshinii/lc-prac/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
