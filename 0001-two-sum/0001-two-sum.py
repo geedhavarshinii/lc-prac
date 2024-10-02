@@ -5,4 +5,4 @@ class Solution:
             if target-nums[i] in hmap:
                 return [hmap[target-nums[i]], i]
             hmap[nums[i]] = i
-        return []
+        return 0
