@@ -26,7 +26,7 @@ class Solution {
         }
         
         //if no breaking point
-        if (ind1 == -1) reverse (nums, 0);
+        if (ind1 == -1) reverse(nums, 0);
         else {
             //find next greater element and assingn to ind2
             for (int i = n-1; i >= 0; i--){
