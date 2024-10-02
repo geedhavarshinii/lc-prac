@@ -174,6 +174,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/geedhavarshinii/lc-prac/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/geedhavarshinii/lc-prac/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/geedhavarshinii/lc-prac/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/geedhavarshinii/lc-prac/tree/master/0206-reverse-linked-list) |
