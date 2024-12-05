@@ -220,6 +220,7 @@
 | [0165-compare-version-numbers](https://github.com/geedhavarshinii/lc-prac/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/geedhavarshinii/lc-prac/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/geedhavarshinii/lc-prac/tree/master/0273-integer-to-english-words) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2502-sort-the-people](https://github.com/geedhavarshinii/lc-prac/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -235,6 +236,7 @@
 | [0165-compare-version-numbers](https://github.com/geedhavarshinii/lc-prac/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geedhavarshinii/lc-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/geedhavarshinii/lc-prac/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
