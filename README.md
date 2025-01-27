@@ -221,6 +221,7 @@
 | [0165-compare-version-numbers](https://github.com/geedhavarshinii/lc-prac/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/geedhavarshinii/lc-prac/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/geedhavarshinii/lc-prac/tree/master/0273-integer-to-english-words) |
+| [1250-longest-common-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/1250-longest-common-subsequence) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2502-sort-the-people](https://github.com/geedhavarshinii/lc-prac/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -245,6 +246,7 @@
 | [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0300-longest-increasing-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
