@@ -140,6 +140,7 @@
 | [0036-valid-sudoku](https://github.com/geedhavarshinii/lc-prac/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
@@ -244,6 +245,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/geedhavarshinii/lc-prac/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/1250-longest-common-subsequence) |
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/geedhavarshinii/lc-prac/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
