@@ -217,6 +217,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/geedhavarshinii/lc-prac/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/geedhavarshinii/lc-prac/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/geedhavarshinii/lc-prac/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/geedhavarshinii/lc-prac/tree/master/0165-compare-version-numbers) |
@@ -246,6 +247,7 @@
 | [0005-longest-palindromic-substring](https://github.com/geedhavarshinii/lc-prac/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/geedhavarshinii/lc-prac/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/1250-longest-common-subsequence) |
