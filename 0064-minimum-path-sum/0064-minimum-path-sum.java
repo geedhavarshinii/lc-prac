@@ -7,8 +7,8 @@ class Solution {
             for (int j = 0; j < m; j++){
                 if (i==0 && j==0) dp[i][j] = grid[i][j];
                 else {
-                    int up = (i > 0) ? dp[i-1][j] : Integer.MAX_VALUE;
-                    int left = (j > 0) ? dp[i][j-1] : Integer.MAX_VALUE;
+                    int up = (i>0) ? dp[i-1][j] : Integer.MAX_VALUE;
+                    int left = (j>0) ? dp[i][j-1] : Integer.MAX_VALUE;
                     dp[i][j] = grid[i][j] + Math.min(up, left);
                 }
             }
