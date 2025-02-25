@@ -148,6 +148,7 @@
 | [0217-contains-duplicate](https://github.com/geedhavarshinii/lc-prac/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/geedhavarshinii/lc-prac/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/geedhavarshinii/lc-prac/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/geedhavarshinii/lc-prac/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/geedhavarshinii/lc-prac/tree/master/0414-third-maximum-number) |
 | [0739-daily-temperatures](https://github.com/geedhavarshinii/lc-prac/tree/master/0739-daily-temperatures) |
@@ -250,6 +251,7 @@
 | [0072-edit-distance](https://github.com/geedhavarshinii/lc-prac/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/geedhavarshinii/lc-prac/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
@@ -327,4 +329,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/geedhavarshinii/lc-prac/tree/master/0739-daily-temperatures) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/geedhavarshinii/lc-prac/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
