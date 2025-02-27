@@ -151,6 +151,7 @@
 | [0322-coin-change](https://github.com/geedhavarshinii/lc-prac/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/geedhavarshinii/lc-prac/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/geedhavarshinii/lc-prac/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0416-partition-equal-subset-sum) |
 | [0739-daily-temperatures](https://github.com/geedhavarshinii/lc-prac/tree/master/0739-daily-temperatures) |
 | [1293-three-consecutive-odds](https://github.com/geedhavarshinii/lc-prac/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/geedhavarshinii/lc-prac/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -252,6 +253,7 @@
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/geedhavarshinii/lc-prac/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
