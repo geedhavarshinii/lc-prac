@@ -143,6 +143,7 @@
 | [0064-minimum-path-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/geedhavarshinii/lc-prac/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geedhavarshinii/lc-prac/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/geedhavarshinii/lc-prac/tree/master/0217-contains-duplicate) |
@@ -208,6 +209,7 @@
 | [0073-set-matrix-zeroes](https://github.com/geedhavarshinii/lc-prac/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/geedhavarshinii/lc-prac/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/geedhavarshinii/lc-prac/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/geedhavarshinii/lc-prac/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/geedhavarshinii/lc-prac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geedhavarshinii/lc-prac/tree/master/0242-valid-anagram) |
@@ -223,6 +225,7 @@
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/geedhavarshinii/lc-prac/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/geedhavarshinii/lc-prac/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/geedhavarshinii/lc-prac/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/geedhavarshinii/lc-prac/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/geedhavarshinii/lc-prac/tree/master/0242-valid-anagram) |
@@ -252,6 +255,7 @@
 | [0053-maximum-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/geedhavarshinii/lc-prac/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/geedhavarshinii/lc-prac/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/geedhavarshinii/lc-prac/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/geedhavarshinii/lc-prac/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/geedhavarshinii/lc-prac/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/geedhavarshinii/lc-prac/tree/master/0322-coin-change) |
@@ -338,4 +342,12 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/geedhavarshinii/lc-prac/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/geedhavarshinii/lc-prac/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/geedhavarshinii/lc-prac/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
