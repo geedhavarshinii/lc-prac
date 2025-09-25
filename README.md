@@ -220,6 +220,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/geedhavarshinii/lc-prac/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/geedhavarshinii/lc-prac/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/geedhavarshinii/lc-prac/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/geedhavarshinii/lc-prac/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/geedhavarshinii/lc-prac/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/geedhavarshinii/lc-prac/tree/master/0049-group-anagrams) |
@@ -333,6 +334,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/geedhavarshinii/lc-prac/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/geedhavarshinii/lc-prac/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
